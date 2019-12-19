@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    background-image: url("images/daniel-ramirez-q4TfWtnz_xw-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav, footer {
+    background-color: navy;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    height: auto;
+    position: sticky;
+    margin-top: 125px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+
+.navbar-toggler-icon{
+    background-color: blue;
+}
+
+a {
+    color: goldenrod;
+}
+
+a:hover{
+    color: white;
+    text-emphasis: bold;
+}
+
+#mapid { height: 180px; }
+
+/* .card{
+    background-color: navy;
+} */
+/* 
+#icoSpot{
+    display: none;
+} */
