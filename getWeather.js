@@ -21,7 +21,7 @@ $(document).ready(function () {
     let lat = '';
     let long = '';
     let zips = '';
-    const apiKey = "7ecdefba0f08fc2c1578f547457263e5";
+    const apiKey = "getanAPIkeyfromopenweather.org";
     // Hide the weather icon space to avoid showing broken link
     icoSpot.hide()
     //  Update the value of the input field and bind it to zips variable
